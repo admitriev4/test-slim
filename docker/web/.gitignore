@@ -1,0 +1,6 @@
+/logs
+/hosts
+/*.zip
+/*.sql
+/*.tar
+/*.gz
